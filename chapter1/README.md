@@ -38,7 +38,7 @@ python源码地址：![decay](https://github.com/SmallGuoguo/computationalphysic
 
 ###结果分析  
 - 红色代表核子A的数量变化，蓝色代表核子B的数量变化：
-- ![decay]()
+- ![decay](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/chapter1/resources/decay.gif)
 
 
 ##结论  
