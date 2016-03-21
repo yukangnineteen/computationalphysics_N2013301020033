@@ -34,14 +34,15 @@
 
 ###程序实现  
 
-python源码地址：
+python源码地址：![decay](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/chapter1/decay.py)
 
 ###结果分析  
-
+- 红色代表核子A的数量变化，蓝色代表核子B的数量变化：
+- ![decay]()
 
 
 ##结论  
-
+当![formula6](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/chapter1/resources/formula6.png)，即子核寿命远小于母核寿命时，子核B将按照母核A的规律衰变。  
 
 
 ##致谢  
