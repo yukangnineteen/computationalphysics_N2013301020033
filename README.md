@@ -1,6 +1,4 @@
-> # :octocat:computationalphysics_N2013301020033  
-
-##姓名:岳绍圣
+> # :octocat:Name:岳绍圣 Studentnumber:2013301020033
 
 ## Homework list:
 [homework1](https://www.zybuluo.com/Guoguo0605/note/331943)  
