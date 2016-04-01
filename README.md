@@ -10,16 +10,20 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 ## HOMEWORK LIST:
 
 - homework 1: Installing Python
-  * [report_HW 1](https://www.zybuluo.com/Guoguo0605/note/331943)(作业部落)  
+
+  * [report_HW 1](https://www.zybuluo.com/Guoguo0605/note/331943)(作业部落)
 
 - homework 2: Installing Vim and Its Plugin:
-  * [report_HW 2](https://www.zybuluo.com/Guoguo0605/note/332468)(作业部落)  
+
+  * [report_HW 2](https://www.zybuluo.com/Guoguo0605/note/332468)(作业部落)
 
 - homework 3: 
-  * [report_HW 3](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/homework3/homework3.ipynb)(Jupyter)    
+
+  * [report_HW 3](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/homework3/homework3.ipynb)(Jupyter)
 
 - chapter 1: 
-  * [report_CH 1](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/tree/master/chapter1)(作业部落)  
+
+  * [report_CH 1](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/tree/master/chapter1)(作业部落)
 
 ### TOOLS & REFERENCES:
 
