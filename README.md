@@ -7,7 +7,7 @@
 
 This repository is for the course [Computational Physics of Prof. Cai](https://github.com/caihao/computational_physics_whu) of WHU, my homeworks and some practices will be uploaded here for convenience. Any advice and suggestions  will be highly appreciated and welcomed, fell free to contact me at any time：yueshaosheng@sina.cn 
 
-## Homework list:
+## HOMEWORK LIST:
 
 - homework 1: Using Python
   * [report](https://www.zybuluo.com/Guoguo0605/note/331943) †
@@ -16,7 +16,7 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - chapter 1: 
   * [report](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/tree/master/chapter1) †  
 
-### Tools:
+### TOOLS:
 
 - [作业部落](https://www.zybuluo.com/mdeditor)  
 - [Python2.7](https://www.python.org/downloads/)  
