@@ -10,11 +10,11 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 ## Homework list:
 
 - homework 1: Using Python
-  * [report](https://www.zybuluo.com/Guoguo0605/note/331943)†
+  * [report](https://www.zybuluo.com/Guoguo0605/note/331943) †
 - homework 3: 
-  * [report](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/homework3/homework3.ipynb)‡  
+  * [report](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/homework3/homework3.ipynb) ‡  
 - chapter 1: 
-  * [report](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/tree/master/chapter1)†  
+  * [report](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/tree/master/chapter1) †  
 
 ### Tools:
 
