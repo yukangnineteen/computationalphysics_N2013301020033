@@ -9,8 +9,10 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 
 ## HOMEWORK LIST:
 
-- homework 1: Using Python
+- homework 1: Installing Python
   * [report](https://www.zybuluo.com/Guoguo0605/note/331943) †
+- homework 2: Installing Vim and Its Plugin:
+  * [report](https://www.zybuluo.com/Guoguo0605/note/332468) †
 - homework 3: 
   * [report](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/homework3/homework3.ipynb) ‡  
 - chapter 1: 
