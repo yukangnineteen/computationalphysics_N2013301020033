@@ -18,11 +18,10 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - chapter 1: 
   * [report](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/tree/master/chapter1) †  
 
-### TOOLS:
+### TOOLS & REFERENCES:
 
-- [作业部落](https://www.zybuluo.com/mdeditor)  
-- [Python2.7](https://www.python.org/downloads/)  
-- [Sublime text3](http://www.sublimetext.com/)  
+- [如何优雅地使用Sublime Text3](http://www.jianshu.com/p/3cb5c6f2421c)  
+- [萌图床](http://pic.ffsky.net/)
 
 
 ------
