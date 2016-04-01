@@ -1,4 +1,7 @@
-> # :octocat:Name:岳绍圣 Studentnumber:2013301020033
+# Name:岳绍圣 Studentnumber:2013301020033:octocat:
+
+> Physics is like sex; sure, it may give some practical results, but that's not why we do it  ————Richard Feynman  
+> Then, Can Computational physics remedy this regret?  
 
 ## BRIEF INTRODUCTION
 
@@ -18,8 +21,7 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - [Python2.7](https://www.python.org/downloads/)  
 - [Sublime text3](http://www.sublimetext.com/)  
 
-> Physics is like sex; sure, it may give some practical results, but that's not why we do it  ————Richard Feynman
 
 ------
-†: written by 作业部落
+†: written by 作业部落  
 ‡: written by Jupyter
