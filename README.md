@@ -21,6 +21,9 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - chapter 1:  
   * [report_CH 1](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/tree/master/chapter1)(作业部落)
 
+- chapter 2:
+  * [report_CH 2](https://www.zybuluo.com/Guoguo0605/note/332720)(作业部落)
+
 ### TOOLS & REFERENCES:
 
 - [如何优雅地使用Sublime Text3](http://www.jianshu.com/p/3cb5c6f2421c)  
