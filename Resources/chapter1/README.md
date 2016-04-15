@@ -2,7 +2,7 @@
 # Decay Involving Two Types of Nuclei
 
 ##摘要  
-以Chapter one 中的习题1.4为任务，给出了包含两类核子的简单级联衰变模型，探究了不同ratio=![tauA](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/chapter1/resources/tauA.png)/![tauB](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/chapter1/resources/tauB.png)下的结果。
+以Chapter one 中的习题1.4为任务，给出了包含两类核子的简单级联衰变模型，探究了不同ratio=![tauA](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/Resources/chapter1/resources/tauA.png)/![tauB](https://github.com/SmallGuoguo/computationalphysics_N2013301020033/blob/master/chapter1/resources/tauB.png)下的结果。
 
 ##背景介绍  
 这里我们考虑简单的级联衰变：  
