@@ -30,6 +30,8 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - homework 8(chapter 3 - Harmonic and Anharmonic Motion):
   * [Harmonic and Anharmonic Motion](https://www.zybuluo.com/Guoguo0605/note/352185)(作业部落)
 
+- homework 9(chapter 3 - Chaos(Strange Attractor)):
+  * [Chaos(Strange Attractor)](https://www.zybuluo.com/Guoguo0605/note/356384)(作业部落)
 
 ### TOOLS & REFERENCES:
 
