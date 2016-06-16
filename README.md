@@ -34,7 +34,10 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
   * [Chaos(Strange Attractor)](https://www.zybuluo.com/Guoguo0605/note/356384)(作业部落)
 
 - homework 11(chapter 4 - The Solar System):
-  * [The Solar System)](https://www.zybuluo.com/Guoguo0605/note/396926)(作业部落)
+  * [The Solar System](https://www.zybuluo.com/Guoguo0605/note/396926)(作业部落)
+
+- homework 12(chapter 4 - Resonances: Kirkwood Gaps):
+  * [Resonances: Kirkwood Gaps]()(作业部落)
 
 ### TOOLS & REFERENCES:
 
