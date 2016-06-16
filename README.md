@@ -33,6 +33,9 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - homework 9(chapter 3 - Chaos(Strange Attractor)):
   * [Chaos(Strange Attractor)](https://www.zybuluo.com/Guoguo0605/note/356384)(作业部落)
 
+- homework 11(chapter 4 - The Solar System):
+  * [The Solar System)](https://www.zybuluo.com/Guoguo0605/note/396926)(作业部落)
+
 ### TOOLS & REFERENCES:
 
 - [如何优雅地使用Sublime Text3](http://www.jianshu.com/p/3cb5c6f2421c)  
