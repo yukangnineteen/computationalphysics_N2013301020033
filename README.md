@@ -39,6 +39,9 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - homework 12(chapter 4 - Resonances: Kirkwood Gaps):
   * [Resonances: Kirkwood Gaps]()(作业部落)
 
+- homework 13(chapter 4 - Wave):
+  * [Wave]()(作业部落)
+
 ### TOOLS & REFERENCES:
 
 - [如何优雅地使用Sublime Text3](http://www.jianshu.com/p/3cb5c6f2421c)  
