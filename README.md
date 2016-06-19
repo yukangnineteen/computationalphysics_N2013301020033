@@ -39,8 +39,9 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - homework 12(chapter 4 - Resonances: Kirkwood Gaps):
   * [Resonances: Kirkwood Gaps]()(作业部落)
 
-- homework 13(chapter 4 - Wave):
-  * [Wave]()(作业部落)
+- homework 13(chapter 4 - Potentials and Fields):
+  * [Potentials and Fields]()(作业部落)
+
 
 ### TOOLS & REFERENCES:
 
