@@ -42,6 +42,9 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - homework 13(chapter 4 - Potentials and Fields):
   * [Potentials and Fields]()(作业部落)
 
+- Final homework(Monte Carlo Simulation of Ising Model by python):
+  * [Monte Carlo Simulation of Ising Model by python](http://7xvjch.com1.z0.glb.clouddn.com/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86final.pdf)(七牛 PDF)
+
 
 ### TOOLS & REFERENCES:
 
