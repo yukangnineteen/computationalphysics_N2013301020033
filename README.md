@@ -33,6 +33,9 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 - homework 9(chapter 3 - Chaos(Strange Attractor)):
   * [Chaos(Strange Attractor)](https://www.zybuluo.com/Guoguo0605/note/356384)(作业部落)
 
+- homework 10
+  * 
+
 - homework 11(chapter 4 - The Solar System):
   * [The Solar System](https://www.zybuluo.com/Guoguo0605/note/396926)(作业部落)
 
@@ -41,6 +44,9 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
 
 - homework 13(chapter 5 - Electric Potential and Field):
   * [Electric Potential and Field](https://www.zybuluo.com/Guoguo0605/note/414328)(作业部落)
+
+- homework 14(chapter 6 - Wave):
+  * [Wave](https://www.zybuluo.com/Guoguo0605/note/414600)(作业部落)
 
 - Final homework(Monte Carlo Simulation of Ising Model by python):
   * [Monte Carlo Simulation of Ising Model by python](http://7xvjch.com1.z0.glb.clouddn.com/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86final.pdf)(七牛 PDF)
