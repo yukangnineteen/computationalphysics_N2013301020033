@@ -49,7 +49,7 @@ This repository is for the course [Computational Physics of Prof. Cai](https://g
   * [Wave](https://www.zybuluo.com/Guoguo0605/note/414600)(作业部落)
 
 - Final homework(Monte Carlo Simulation of Ising Model by python):
-  * [Monte Carlo Simulation of Ising Model by python](http://7xvjch.com1.z0.glb.clouddn.com/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86final.pdf)(七牛 PDF)
+  * [Monte Carlo Simulation of Ising Model by python](http://ogoawo9vj.bkt.clouddn.com/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86final.pdf)(七牛 PDF)
 
 
 ### TOOLS & REFERENCES:
